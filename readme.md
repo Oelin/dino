@@ -7,3 +7,5 @@ $ cd neural-chrome-dino
 
 $ npx serve .
 ```
+
+The mod is located in `lib/mods/ann`
